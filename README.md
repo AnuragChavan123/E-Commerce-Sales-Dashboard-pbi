@@ -33,6 +33,8 @@ The final dashboard surfaces the following KPIs and views:
 - **Dashboard design:** Applied a consistent dark theme, KPI cards for at-a-glance metrics, and a logical layout (KPIs top, breakdowns middle, trends right) to make the report scannable in seconds.
 - **End-to-end BI workflow:** Went through the full analyst workflow — import data → clean/join → model → visualize → add interactivity — the same process used in real business reporting.
 
+![image alt](https://github.com/AnuragChavan123/E-Commerce-Sales-Dashboard-pbi/blob/main/Screenshot%202026-09-08%20181225.png?raw=true)
+
 ## 💡 Impact / Business Value
 This dashboard demonstrates how raw transactional exports can be turned into a decision-support tool:
 
